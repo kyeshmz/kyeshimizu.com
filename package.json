@@ -89,7 +89,7 @@
     "mdast-util-to-string": "^4.0.0",
     "postcss": "^8.4.32",
     "prettier": "^3.1.1",
-    "prettier-plugin-astro": "^0.12.2",
+    "prettier-plugin-astro": "^0.13.0",
     "reading-time": "^1.5.0",
     "rehype-external-links": "^3.0.0",
     "tailwindcss-animate": "^1.0.7",
