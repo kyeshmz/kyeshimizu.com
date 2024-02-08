@@ -12,7 +12,7 @@
     "lint": "eslint --ext .astro,.js,.jsx,.ts,.tsx ./src --fix"
   },
   "dependencies": {
-    "@astrojs/check": "^0.3.3",
+    "@astrojs/check": "^0.5.0",
     "@astrojs/cloudflare": "^8.0.0",
     "@astrojs/mdx": "^2.0.1",
     "@astrojs/react": "^3.0.7",
